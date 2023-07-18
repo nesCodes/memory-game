@@ -1,0 +1,8 @@
+<h1>Memory Game</h1>
+
+<p>Welcome to the Memory Game project!<br />
+  This is a classic concentration game<br />
+  where you can test your memory skills by<br />
+  flipping over two cards at a time, aiming to find matching pairs.</p>
+
+  <p>You have won, as soon as you flip over all the cards and they are matched.</p>
