@@ -6,3 +6,12 @@
   flipping over two cards at a time, aiming to find matching pairs.</p>
 
   <p>You have won, as soon as you flip over all the cards and they are matched.</p>
+
+
+  <h2>Technologies Used</h2>
+
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+  </ul>
