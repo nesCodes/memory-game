@@ -20,12 +20,12 @@
 
   <img src="Memory_Game_1.png" alt="all cards covered" width="500" height="600">
   <br>
-  <img src="Memory_Game_2.png" alt="a match" width="500" height="600">
+  <img src="Memory_Game_2.png" alt="first match" width="500" height="600">
   <br>
-  <img src="Memory_Game_3.png" alt="another match" width="500" height="600">
+  <img src="Memory_Game_3.png" alt="try again" width="500" height="600">
   <br>
-  <img src="Memory_Game_4.png" alt="try again" width="500" height="600">
+  <img src="Memory_Game_4.png" alt="another match" width="500" height="600">
   <br>
   <img src="Memory_Game_5.png" alt="last match" width="500" height="600">
   <br>
-  <img src="Memory_Game_6.png" alt="white cards" width="500" height="600">
+  <img src="Memory_Game_6.png" alt="all cards found" width="500" height="600">
