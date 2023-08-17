@@ -15,3 +15,8 @@
     <li>CSS</li>
     <li>JavaScript</li>
   </ul>
+
+  Here are screenshots of the game:
+
+  <img src="Memory_Game_1.png" alt="all cards covered" width="500" height="600">
+
